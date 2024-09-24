@@ -13,7 +13,7 @@ In [*Build a Large Language Model (From Scratch)*](http://mng.bz/orYv), you'll l
 
 The method described in this book for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT. In addition, this book includes code for loading the weights of larger pretrained models for finetuning.
 
-- Link to the official [source code repository](https://github.com/rasbt/LLMs-from-scratch)
+- Link to the official [source code repository](https://github.com/ranpy13/Learning-LLM)
 - [Link to the book at Manning](http://mng.bz/orYv)
 - [Link to the book page on Amazon](https://www.amazon.com/gp/product/1633437167)
 - ISBN 9781633437166
