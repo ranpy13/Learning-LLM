@@ -32,7 +32,7 @@ git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
 
 <br>
 
-(If you downloaded the code bundle from the Manning website, please consider visiting the official code repository on GitHub at [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) for the latest updates.)
+(If you downloaded the code bundle from the Manning website, please consider visiting the official code repository on GitHub at [https://github.com/ranpy13/Learning-LLM](https://github.com/rapny13/Learning-LLM) for the latest updates.)
 
 <br>
 <br>
