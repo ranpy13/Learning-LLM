@@ -159,6 +159,6 @@ BibTeX entry:
   year         = {2024},
   isbn         = {978-1633437166},
   url          = {https://www.manning.com/books/build-a-large-language-model-from-scratch},
-  github       = {https://github.com/rasbt/LLMs-from-scratch}
+  github       = {https://github.com/ranpy13/Learning-LLM}
 }
 ```
