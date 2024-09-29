@@ -27,7 +27,7 @@ The method described in this book for training and developing your own small-but
 To download a copy of this repository, click on the [Download ZIP](https://github.com/ranpy13/Learning-LLM/archive/refs/heads/main.zip) button or execute the following command in your terminal:
 
 ```bash
-git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
+git clone --depth 1 https://github.com/ranpy13/Learning-LLM.git
 ```
 
 <br>
